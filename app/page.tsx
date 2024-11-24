@@ -7,7 +7,7 @@ export default function Home() {
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
-            href="https://wa.me/9997035168?text=Hi%20there,%20I%20would%20like%20to%20avail%20your%20services."
+            href="https://wa.me/919997035168?text=Hi%20there,%20I%20would%20like%20to%20avail%20your%20services."
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-green-500 text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
